@@ -16,5 +16,5 @@
 ✉️ Reach me: 
     
     -Gmail: pdolecki.it@gmail.com
-    -Linkedin: https://www.linkedin.com/in/pdolecki/
+    -Linkedin: linkedin.com/in/pdolecki
     
