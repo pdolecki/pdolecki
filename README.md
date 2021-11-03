@@ -1,10 +1,11 @@
 👦 About me:
 
     Hi! My name is Patrick, and I study Software Engineering.
+    
     I work as an IT Specjalist, but I'm continiously learning to become WEB developer - 
     I really enjoy working with WEB applications, desiging and building components, working on UX and UI, adding backed, 
-    functionalities, business logic, testing with different tools... 
-    I just love everything connected in some way to WEB development 😍.
+    functionalities, business logic, testing with different tools, connecting with databases... 
+    I'm just fascinated with everything connected with WEB development.
 
 
 🎯 Goals in 2022:
