@@ -7,7 +7,7 @@
     
 🧰 Tools & technologies:
 
-    HTML | CSS | SASS | JS | Node.js | Express | NPM  | GIT | Github | MongoDB | Compass | Postman | and many more...
+    HTML | CSS | SASS | JS | Node.js | Express | NPM  | GIT | Github | MongoDB | Compass | Postman | and much more...
 
 🎯 Goals in 2022:
 
