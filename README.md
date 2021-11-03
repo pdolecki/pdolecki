@@ -3,7 +3,8 @@
     Hi! My name is Patrick, and I study Software Engineering.
     
     I work as an IT Specjalist, but I'm continiously learning to become WEB developer - 
-    I really enjoy working with WEB applications - does not matter if we're talking about backend, frontend or anything in between.
+    I really enjoy working with WEB applications
+    (it does not matter if we're talking about backend, frontend or anything in between)
     
 🧰 Tools & technologies:
 
