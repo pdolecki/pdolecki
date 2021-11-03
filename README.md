@@ -3,10 +3,10 @@
     Hi! My name is Patrick, and I study Software Engineering.
     
     I work as an IT Specjalist, but I'm continiously learning to become WEB developer - 
-    I really enjoy working with WEB applications, desiging and building components, working on UX and UI, adding backed, 
-    functionalities, business logic, testing with different tools, connecting with databases... 
-    I'm just fascinated with everything connected with WEB development.
-
+    I really enjoy working with WEB applications - does not matter if we're talking about backend, frontend or anything in between.
+    
+🧰 Tools & technologies(also in progress):
+    HTML | CSS | SASS | JS | Node.js | Express | NPM | React.js | GIT | Github | Netlify | MongoDB | Atlas | Compass | Postman | and many more...
 
 🎯 Goals in 2022:
 
