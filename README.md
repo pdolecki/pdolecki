@@ -15,6 +15,6 @@
     
 ✉️ Reach me: 
     
-    -Gmail: pdolecki.it@gmail.com
-    -Linkedin: linkedin.com/in/pdolecki
+    > Gmail: pdolecki.it@gmail.com
+    > Linkedin: linkedin.com/in/pdolecki
     
