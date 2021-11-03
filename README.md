@@ -6,6 +6,7 @@
     I really enjoy working with WEB applications - does not matter if we're talking about backend, frontend or anything in between.
     
 🧰 Tools & technologies(also in progress):
+
     HTML | CSS | SASS | JS | Node.js | Express | NPM | React.js | GIT | Github | Netlify | MongoDB | Atlas | Compass | Postman | and many more...
 
 🎯 Goals in 2022:
