@@ -15,7 +15,6 @@
 ✉️ Reach me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] pdolecki
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail] pdolecki.it@gmail.com
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />] pdolecki.it@gmail.com
 
-[gmail]: https://mail.google.com/mail/?extsrc=mailto&url=
 [linkedin]: https://linkedin.com/in/pdolecki
