@@ -6,7 +6,6 @@
 - 🥅 2022 Goals: Learn React.js and land first programming job
 - ⚡ Fun fact: I love to lift weights and play guitar
 
-<br />
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 <br />
 
