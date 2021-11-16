@@ -42,3 +42,4 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img src="https://github-readme-stats.vercel.app/api?username=pdolecki" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdolecki&theme=dark&show_icons=true)
