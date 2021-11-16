@@ -41,4 +41,4 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pdolecki &theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=pdolecki &theme=radical" />
