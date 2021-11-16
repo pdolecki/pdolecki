@@ -38,8 +38,9 @@
 
 [linkedin]: https://linkedin.com/in/pdolecki
 [gmail]: mailto:pdolecki.it@gmail.com
+[pdolecki stats]: https://github-readme-stats.vercel.app/api?username=pdolecki
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img src="https://github-readme-stats.vercel.app/api?username=pdolecki" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdolecki&theme=dark&show_icons=true)
+![pdolecki stats](https://github-readme-stats.vercel.app/api?username=pdolecki&theme=dark&show_icons=true)
