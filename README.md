@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate with **ambitious people**
 
-- 🥅 2022 Goals: Learn React.js and land first **programming job**
+- 🥅 **2022 Goals:** Learn React.js and land first programming job
 
 - ⚡ Fun fact: I study alot and love every minute of it ❤
 
