@@ -1,9 +1,5 @@
 <img align="left" alt="Patrick's logo" src="./logo.png" />
 
-<br />
-<br />
-<br />
-
 ### Hi there, My name is Patrick 👋
 
 - 🔭 I'm a Student, IT Specjalist, Junior Frontend Developer!!
