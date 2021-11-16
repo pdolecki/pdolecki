@@ -1,6 +1,6 @@
 <img align="left" alt="Patrick's logo" src="./logo.png" />
 
-<h1 align="center">Hi, I'm Patrick<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">My name is Patrick<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">I'm a passionate WEB Developer from Poland.</h3>
 
 
@@ -38,7 +38,7 @@
 
 <br />
 
-## 📞 Reach me:
+## 📩 Reach me:
 
 [<img align="left" alt="pdolecki | gmail" width="24px" src="https://img.icons8.com/color/48/000000/gmail.png" />][gmail] pdolecki.it@gmail.com
 
@@ -49,7 +49,7 @@
 
 <br />
 
-## 💹 My Github Stats
+##  My Github Stats
 
 <p align="center">
     <a href="https://github.com/pdolecki/github-readme-streak-stats">
