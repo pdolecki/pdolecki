@@ -11,8 +11,8 @@
 🧰 Tools & technologies:
 <br />
 <br />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />\
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />\
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sass.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
