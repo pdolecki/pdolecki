@@ -63,10 +63,19 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-<br/>
+## 📊 My Github Stats
+
     <a href="https://github.com/pdolecki/github-readme-stats"><img alt="Patrick's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pdolecki&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/pdolecki/github-readme-stats"><img alt="Patrick's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdolecki&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+## ❤ Views and Followers
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=pdolecki">
+</a>
+<a href="https://github.com/pdolecki?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
 
