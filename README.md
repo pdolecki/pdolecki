@@ -1,5 +1,3 @@
-👦 About me:
-
 ### Hi there, My name is Patrick 👋
 
 - 🔭 I'm a Student, IT Specjalist, Junior Frontend Developer!!
@@ -8,9 +6,13 @@
 - 🥅 2022 Goals: Learn React.js and land first programming job
 - ⚡ Fun fact: I love to lift weights and play guitar
 
+<br />
+
 🧰 Tools & technologies:
 
     HTML | CSS | SASS | JS | Node.js | Express | NPM  | GIT | Github | MongoDB | Compass | Postman | and much more...
+
+<br />
 
 ✉️ Reach me:
 
