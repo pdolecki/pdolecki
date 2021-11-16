@@ -1,4 +1,4 @@
-<img align="left" alt="Patrick's logo" width="1000px" src="./4735135.png" />
+<img align="left" alt="Patrick's logo" width="1000px" height="500" src="./4735135.png" />
 <br />
 
 ### Hi there, My name is Patrick 👋
