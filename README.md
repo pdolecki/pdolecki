@@ -1,4 +1,4 @@
-![](./4735135.png)
+<img align="left" alt="Patrick's logo" width="26px" src="./4735135.png" />
 
 ### Hi there, My name is Patrick 👋
 
