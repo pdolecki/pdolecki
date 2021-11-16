@@ -7,7 +7,9 @@
 - ⚡ Fun fact: I love to lift weights and play guitar
 
 <br />
----
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+<br />
+
 🧰 Tools & technologies:
 <br />
 <br />
@@ -25,7 +27,7 @@
 <img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postman.svg" />
 
 <br />
----
+
 ✉️ Reach me:
 
 [<img align="left" alt="pdolecki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [pdolecki][linkedin]
