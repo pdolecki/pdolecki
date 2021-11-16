@@ -1,6 +1,8 @@
 <img align="left" alt="Patrick's logo" src="./logo.png" />
 
-### Hi there, My name is Patrick 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Patrick</h1>
+<h3 align="center">I'm a passionate WEB Developer from Poland.</h3>
+
 
 - 🔭 I'm a Student, IT Specjalist, Junior Frontend Developer!!
 - 🌱 I’m currently learning React.js
@@ -42,5 +44,4 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img src="https://github-readme-stats.vercel.app/api?username=pdolecki" />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdolecki)](https://github.com/pdolecki/github-readme-stats)
 
