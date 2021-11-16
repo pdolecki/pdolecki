@@ -43,7 +43,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## ✉️ Reach me:
-[<img align="left" alt="pdolecki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [pdolecki][linkedin]
+[<img align="left" alt="pdolecki | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin] [pdolecki][linkedin]
 <br />
 [<img align="left" alt="pdolecki | gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail.png" />][gmail] pdolecki.it@gmail.com
 
