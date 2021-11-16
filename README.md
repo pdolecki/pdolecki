@@ -55,7 +55,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📊 My Github Stats
+## 💹 My Github Stats
 
 <p align="center">
     <a href="https://github.com/pdolecki/github-readme-streak-stats">
