@@ -1,25 +1,21 @@
 👦 About me:
 
-    Hi! My name is Patrick, and I study Software Engineering.
-    
-    I work as an IT Specjalist, but I'm continiously learning to become WEB developer - 
-    I really enjoy working with WEB applications
-    (it does not matter if we're talking about backend, frontend or anything in between)
-    
+### Hi there, My name is Patrick 👋
+
+- 🔭 I'm a Student, IT Specjalist, Junior Frontend Developer!!
+- 🌱 I’m currently learning React.js
+- 👯 I’m looking to collaborate with other ambitious developers
+- 🥅 2022 Goals: Learn React.js and land first programming job
+- ⚡ Fun fact: I love to lift weights and play guitar
+
 🧰 Tools & technologies:
 
     HTML | CSS | SASS | JS | Node.js | Express | NPM  | GIT | Github | MongoDB | Compass | Postman | and much more...
 
-🎯 Goals in 2022:
+✉️ Reach me:
 
-    > Master MERN stack
-    > Build at least 10 smaller projects to my portfolio(not including turtorials one)
-    > Figure out topic for and start working on graduate thesis WEB app.
-    > Find work connected to WEB dev - frontend, backend or fullstack
-    
-    
-✉️ Reach me: 
-    
-    > Gmail: pdolecki.it@gmail.com
-    > Linkedin: linkedin.com/in/pdolecki
-    
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] pdolecki
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail] pdolecki.it@gmail.com
+
+[gmail]: https://mail.google.com/mail/?extsrc=mailto&url=
+[linkedin]: https://linkedin.com/in/pdolecki
