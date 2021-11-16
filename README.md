@@ -7,7 +7,6 @@
 - ⚡ Fun fact: I love to lift weights and play guitar
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-<br />
 
 🧰 Tools & technologies:
 <br />
@@ -25,7 +24,7 @@
 <img align="left" alt="NPM" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/npm.svg" />
 <img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postman.svg" />
 
-<br />
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✉️ Reach me:
 
