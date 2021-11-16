@@ -1,3 +1,5 @@
+![](./4735135.png)
+
 ### Hi there, My name is Patrick 👋
 
 - 🔭 I'm a Student, IT Specjalist, Junior Frontend Developer!!
