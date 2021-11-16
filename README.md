@@ -38,13 +38,11 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
-
 <br />
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-✉️ Reach me:
-
+## ✉️ Reach me:
 [<img align="left" alt="pdolecki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [pdolecki][linkedin]
 <br />
 [<img align="left" alt="pdolecki | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail] pdolecki.it@gmail.com
@@ -52,7 +50,10 @@
 [linkedin]: https://linkedin.com/in/pdolecki
 [gmail]: mailto:pdolecki.it@gmail.com
 
+<br />
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=pdolecki" />
 
