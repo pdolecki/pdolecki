@@ -4,11 +4,16 @@
 <h3 align="center">I'm a passionate WEB Developer from Poland.</h3>
 
 
-- 🔭 I'm a Student, IT Specjalist, Junior Frontend Developer!!
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate with other ambitious developers
-- 🥅 2022 Goals: Learn React.js and land first programming job
-- ⚡ Fun fact: I love to lift weights and play guitar
+## 🙋‍♂️ About Me
+- 🔭 I'm a Student, IT Specjalist and Junior **Frontend Developer**!!
+
+- 🌱 I’m currently learning **React.js**
+
+- 👯 I’m looking to collaborate with **ambitious people**
+
+- 🥅 2022 Goals: Learn React.js and land first **programming job**
+
+- ⚡ Fun fact: I study alot and love every minute of it ❤
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
