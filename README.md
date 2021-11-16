@@ -5,6 +5,7 @@
 
 
 ## 🙋‍♂️ About Me
+
 - 🔭 I'm a Student, IT Specjalist and Junior **Frontend Developer**!!
 
 - 🌱 I’m currently learning **React.js**
