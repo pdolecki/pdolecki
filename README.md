@@ -4,7 +4,6 @@
 <h3 align="center">I'm a passionate WEB Developer from Poland.</h3>
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🙋‍♂️ About Me
 
 - 🔭 I'm a Student, IT Specjalist and Junior **Frontend Developer**!!
