@@ -1,7 +1,7 @@
 <img align="left" alt="Patrick's logo" src="./logo.png" />
 
-<h1 align="center">Hi, I'm Patrick</h1>
-<h3 align="center">I'm a passionate WEB Developer from Poland.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
+<h1 align="center">Hi, I'm Patrick</h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h3 align="center">I'm a passionate WEB Developer from Poland.</h3>
 
 
 - 🔭 I'm a Student, IT Specjalist, Junior Frontend Developer!!
