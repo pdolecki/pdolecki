@@ -1,6 +1,6 @@
 <img align="left" alt="Patrick's logo" src="./logo.png" />
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Patrick</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I'm Patrick</h1>
 <h3 align="center">I'm a passionate WEB Developer from Poland.</h3>
 
 
