@@ -38,17 +38,6 @@
 
 <br />
 
-## 📩 Reach me:
-
-- [<img align="left" alt="pdolecki | gmail" width="24px" src="https://img.icons8.com/color/48/000000/gmail.png" />][gmail] pdolecki.it@gmail.com
-
-- [<img align="left" alt="pdolecki | LinkedIn" width="28px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin] [pdolecki][linkedin]
-
-[linkedin]: https://linkedin.com/in/pdolecki
-[gmail]: mailto:pdolecki.it@gmail.com
-
-<br />
-
 ## 📊 My Github Stats
 
 <p align="center">
@@ -66,6 +55,17 @@
    <b>Note:</b><em> Most used languages is only a metric of the languages that my public code consists of and doesn't reflect experience or skill level.</em>
 
 <br />
+<br />
+
+## 📩 Reach me:
+
+- [<img align="left" alt="pdolecki | gmail" width="24px" src="https://img.icons8.com/color/48/000000/gmail.png" />][gmail] pdolecki.it@gmail.com
+
+- [<img align="left" alt="pdolecki | LinkedIn" width="28px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin] [pdolecki][linkedin]
+
+[linkedin]: https://linkedin.com/in/pdolecki
+[gmail]: mailto:pdolecki.it@gmail.com
+
 <br />
 
 ## ⭐ Views
