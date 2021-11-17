@@ -63,7 +63,7 @@
   <a href="https://github.com/pdolecki/github-readme-stats"><img alt="Patrick's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdolecki&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 </p>
-   <b>Note:</b><em> Top languages is only a metric of the languages that my public code consists of and doesn't reflect experience or skill level.</em>
+   <b>Note:</b><em> Most used languages is only a metric of the languages that my public code consists of and doesn't reflect experience or skill level.</em>
 
 <br />
 <br />
