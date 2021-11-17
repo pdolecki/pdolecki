@@ -73,5 +73,3 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=pdolecki">
 </a>
-<a href="https://github.com/pdolecki?tab=followers"><img src="https://img.shields.io/github/followers/pdolecki?label=Followers&style=social" alt="GitHub Badge"></a>
-
