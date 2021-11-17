@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm a Student, IT Specjalist and Junior **Frontend Developer**!!
+- 🔭 I'm a Student, IT Specialist and Junior **Frontend Developer**!!
 
 - 🌱 I’m currently learning **React.js**
 
@@ -16,7 +16,7 @@
 
 - 🥅 **2022 Goals:** Learn React.js and land first programming job
 
-- ⚡ **Fun fact**: I study alot and love every minute of it ❤
+- ⚡ **Fun fact**: I study a lot and love every minute of it ❤
 
 <br />
 
