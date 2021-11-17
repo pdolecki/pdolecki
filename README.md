@@ -57,7 +57,7 @@
 <br />
 <br />
 
-## 📩 Reach me:
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
 - [<img align="left" alt="pdolecki | gmail" width="24px" src="https://img.icons8.com/color/48/000000/gmail.png" />][gmail] pdolecki.it@gmail.com
 
