@@ -37,6 +37,7 @@
   <a href="https://nx.dev/" target="_blank"> <img src="https://images.ctfassets.net/96ni1xzc7t82/1x2tqujxY3zf0MsUMa6uAM/51cc5821d5909884d9c9511458ebdd89/Nrwl_Icon_FC.svg" style="height:60px;"/> </a>
   <a href="https://nestjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" style="height:48px;"/> </a>
   <a href="https://storybook.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/storybook/storybook-original.svg" style="height:48px;"/> </a>
+  <a href="https://azure.microsoft.com/pl-pl/services/devops/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="height:48px;"/> </a>
   
 </p>
 
