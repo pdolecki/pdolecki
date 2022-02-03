@@ -10,7 +10,7 @@
 
 - 🔭 I'm the Junior **Frontend Developer**!!
 
-- 🌱 I’m currently focusing **Angular**
+- 🌱 I’m currently focusing on **Angular**
 
 - 👯 I’m looking to collaborate with **ambitious people**
 
