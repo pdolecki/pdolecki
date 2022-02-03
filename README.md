@@ -1,20 +1,20 @@
 <img align="left" alt="Patrick's logo" src="./logo.png" />
 
 <h1 align="center">My name is Patrick<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I'm a passionate WEB Developer from Poland.</h3>
+<h3 align="center">I'm a passionate Frontend Developer from Poland.</h3>
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm a Student, IT Specialist and Junior **Frontend Developer**!!
+- 🔭 I'm the Junior **Frontend Developer**!!
 
-- 🌱 I’m currently learning **React.js** and **Angular**
+- 🌱 I’m currently focusing **Angular**
 
 - 👯 I’m looking to collaborate with **ambitious people**
 
-- 🥅 **2022 Goals:** Land first programming job(preferably frontend)
+- 🥅 **2022 Goals:** Learn, learn and one more time, learn :D
 
 - ⚡ **Fun fact**: I study a lot and love every minute of it ❤
 
@@ -32,8 +32,6 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
   <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"/> </a>
   <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-  <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
   <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/angularjs.png"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
 </p>
