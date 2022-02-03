@@ -34,6 +34,8 @@
   <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a>
   <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/angularjs.png"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/nrwl.svg"/> </a>
+  
 </p>
 
 <br />
