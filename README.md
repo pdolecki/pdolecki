@@ -70,10 +70,4 @@
 [linkedin]: https://linkedin.com/in/pdolecki
 [gmail]: mailto:pdolecki.it@gmail.com
 
-<br />
 
-## ⭐ Views
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=pdolecki">
-</a>
