@@ -39,7 +39,7 @@
   <a href="https://storybook.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/storybook/storybook-original.svg" style="height:48px;"/> </a>
   <a href="https://azure.microsoft.com/pl-pl/services/devops/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="height:48px;"/> </a>
   <a href="https://expressjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" style="height:48px;"/> </a>
-  
+  <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" style="height:48px;"/> </a>
 </p>
 
 <br />
