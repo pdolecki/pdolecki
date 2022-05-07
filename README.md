@@ -40,6 +40,7 @@
   <a href="https://azure.microsoft.com/pl-pl/services/devops/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="height:48px;"/> </a>
   <a href="https://expressjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" style="height:48px;"/> </a>
   <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" style="height:48px;"/> </a>
+  <a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg" style="height:48px;"/> </a>
 </p>
 
 <br />
