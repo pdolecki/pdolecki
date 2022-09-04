@@ -8,13 +8,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm the Junior **Frontend Developer**!!
+- 🔭 I'm the **Frontend Developer**!!
 
-- 🌱 I’m currently focusing on **Angular**
-
-- 👯 I’m looking to collaborate with **ambitious people**
-
-- 🥅 **2022 Goals:** Learn, learn and one more time, learn :D
+- 🌱 My main focus is **Angular**
 
 - ⚡ **Fun fact**: I study a lot and love every minute of it ❤
 
