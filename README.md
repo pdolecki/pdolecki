@@ -1,7 +1,7 @@
 <img align="left" alt="Patrick's logo" src="./logo.png" />
 
 <h1 align="center">My name is Patrick<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I'm a passionate Frontend Developer from Poland.</h3>
+<h3 align="center">I'm a passionate WEB Developer from Poland.</h3>
 <p>Highly motivated and dedicated Frontend Developer with a passion for crafting exceptional user experiences. Proficient in Angular and Node, I bring a unique blend of technical expertise and creative problem solving to every project. From conceptualizing and designing, to development and testing, I take pride in delivering top-notch results and delivering them on time. Excited to work with driven teams and contribute my skills to create meaningful digital experiences. Let's create something amazing together.<p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
