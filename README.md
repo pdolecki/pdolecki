@@ -37,8 +37,8 @@
   <a href="https://expressjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" style="height:48px;"/> </a>
   <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" style="height:48px;"/> </a>
   <a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" style="height:48px;"/> </a>
-  <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/rust-lang/rust-lang-icon.svg" style="height:48px;"/> </a>
-  <a href="https://webassembly.org/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/webassembly/webassembly-icon.svg" style="height:48px;"/> </a>
+  <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" style="height:48px;"/> </a>
+  <a href="https://webassembly.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg" style="height:48px;"/> </a>
 </p>
 
 <br />
