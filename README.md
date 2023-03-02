@@ -39,8 +39,8 @@
   <a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" style="height:48px;"/> </a>
   <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" style="height:48px;"/> </a>
   <a href="https://webassembly.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg" style="height:48px;"/> 
-  <a href="https://webassembly.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" style="height:48px;"/> </a>
-  <a href="https://webassembly.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="height:48px;"/> 
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" style="height:48px;"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="height:48px;"/> 
 </p>
 
 <br />
