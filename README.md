@@ -42,8 +42,13 @@
   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" style="height:48px;"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="height:48px;"/> 
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/tailwindcss/tailwindcss-icon.svg" style="height:48px;"/> 
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/figma/figma-icon.svg" style="height:48px;"/> 
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/figma/figma-icon.svg" style="height:48px;"/> 
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/figma/figma-icon.svg" style="height:48px;"/>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/docker/docker-icon.svg" style="height:48px;"/>
+  <a href="https://docs.gitlab.com/ee/ci/pipelines/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/gitlab/gitlab-icon.svg" style="height:48px;"/> 
+  <a href="https://socket.io/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/socketio/socketio-icon.svg" style="height:48px;"/> 
+  <a href="https://jestjs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/jestjsio/jestjsio-icon.svg" style="height:48px;"/>
+  <a href="https://graphql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/graphql/graphql-icon.svg" style="height:48px;"/>
+  <a href="https://svelte.dev/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/sveltetechnology/images/fc06c9b6-d01c-4e1f-82be-557ad5f65d6e.html" style="height:48px;"/>
 </p>
 
 <br />
