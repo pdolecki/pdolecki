@@ -28,7 +28,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
   <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"/> </a>
   <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a>
-  <a href="https://angular.io/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/angular/angular-icon.svg" style="height:48px;"//> </a>
+  <a href="https://angular.io/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/angular/angular-icon.svg" style="height:48px;"/> 
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
   <a href="https://nx.dev/" target="_blank"> <img src="https://images.ctfassets.net/96ni1xzc7t82/1x2tqujxY3zf0MsUMa6uAM/51cc5821d5909884d9c9511458ebdd89/Nrwl_Icon_FC.svg" style="height:60px;"/> </a>
   <a href="https://nestjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" style="height:48px;"/> </a>
