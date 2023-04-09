@@ -84,17 +84,14 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2>📊📊📊 My Github Stats:</h2>
-<p align="center">
-<a href="https://github.com/pdolecki/github-readme-streak-stats">
-  <img title="Streak stats for profile" alt="Patrick's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pdolecki&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</a>
-
-
-<br />
+<div align="center"> 
+  <a href="https://github.com/pdolecki/github-readme-streak-stats">
+    <img title="Streak stats for profile" alt="Patrick's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pdolecki&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
+  </br>
   <a href="https://github.com/pdolecki/github-readme-stats"><img alt="Patrick's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdolecki&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
-</p>
-   <b>Note:</b><em> Most used languages is only a metric of the languages that my public code consists of and doesn't reflect experience or skill level.</em>
+</div>
+<b>Note:</b><em> Most used languages is only a metric of the languages that my public code consists of and doesn't reflect experience or skill level.</em>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
