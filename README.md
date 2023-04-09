@@ -1,20 +1,15 @@
-<img align="left" alt="Patrick's logo" src="./logo.png" />
-
-<h1 align="center">My name is Patrick<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I'm a passionate WEB Developer from Poland.</h3>
-<p>Highly motivated and dedicated Frontend Developer with a passion for crafting exceptional user experiences. Proficient in Angular and Node, I bring a unique blend of technical expertise and creative problem solving to every project. From conceptualizing and designing, to development and testing, I take pride in delivering top-notch results and delivering them on time. Excited to work with driven teams and contribute my skills to create meaningful digital experiences. Let's create something amazing together.<p>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+    Hello World!
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
+<h2>🤝 Let's create something amazing together!</h3>
+<p> - 🔥 Highly motivated and dedicated with a passion for crafting exceptional user experiences.</p>
+<p> - 💻 I bring a unique blend of technical expertise and creative problem solving in every project.</p>
+<p> - 💡 From concept and design, to development and testing. I take pride in delivering top-notch results.</p>
+<p> - 👥 Excited to work with driven teams and contribute my skills to create meaningful digital experiences.</p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-
-## 🙋‍♂️ About Me
-
-- 🔭 I'm the **Frontend Developer**!!
-
-- 🌱 My main focus is **Angular**
-
-- ⚡ **Fun fact**: I study a lot and love every minute of it ❤
-
-<br />
 
 ## 🧰 Languages and Tools:
 <p align="left"> 
