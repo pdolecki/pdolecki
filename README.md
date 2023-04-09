@@ -15,38 +15,72 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2>🛠️🛠️🛠️ Languages and Tools:</h2>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" style="height:48px;" title="HTML"/>
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" style="height:48px;" title="CSS"/>
-<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" style="height:48px;" title="SCSS"/>
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" style="height:48px;" title="JavaScript"/>
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" style="height:48px;" title="TypeScript"/>
-<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" style="height:48px;" title="Angular"/>
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" style="height:48px;" title="Node.js"/>
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" style="height:48px;" title="Express.js"/>
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" style="height:48px;" title="MongoDB"/>
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="height:48px;" title="PostgresSQL"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="height:48px;" title="Postman"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="height:48px;" title="Git"/>
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" style="height:48px;" title="Github"/>
-<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" style="height:48px;" title="Npm"/>
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/23484f41d6852846e74f65320691203644291341/icons/file_type_light_nx.svg" style="height:48px;" title="Nx"/>
-<img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" style="height:48px;" title="Nest.js"/>
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/23484f41d6852846e74f65320691203644291341/icons/file_type_storybook.svg" style="height:48px;" title="StoryBook"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="height:48px;" title="Azure"/>
-<img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" style="height:48px;" title="Jasmine"/>
-<img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" style="height:48px;" title="Webpack"/>
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" style="height:48px;" title="AWS"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="height:48px;" title="Tailwind"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="height:48px;" title="Figma"/>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" style="height:48px;" title="Docker"/>
-<img src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg" style="height:48px;" title="WebAssembly"/>
-<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" style="height:48px;" title="Rust"/>
-<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" style="height:48px;" title="GitLab"/>
-<img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" style="height:48px;" title="Socket.io"/>
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="height:48px;" title="Jest"/>
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" style="height:48px;" title="GraphQL"/>
-<img src="https://upload.vectorlogo.zone/logos/sveltetechnology/images/fc06c9b6-d01c-4e1f-82be-557ad5f65d6e.svg" style="height:48px;" title="Svelte"/>
-
+<div style="display: flex">
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" style="height:48px;" title="HTML"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" style="height:48px;" title="CSS"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" style="height:48px;" title="SCSS"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" style="height:48px;" title="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" style="height:48px;" title="TypeScript"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" style="height:48px;" title="Angular"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" style="height:48px;" title="Node.js"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" style="height:48px;" title="Express.js"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" style="height:48px;" title="MongoDB"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="height:48px;" title="PostgresSQL"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="height:48px;" title="Postman"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="height:48px;" title="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" style="height:48px;" title="Github"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" style="height:48px;" title="Npm"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/23484f41d6852846e74f65320691203644291341/icons/file_type_light_nx.svg" style="height:48px;" title="Nx"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" style="height:48px;" title="Nest.js"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/23484f41d6852846e74f65320691203644291341/icons/file_type_storybook.svg" style="height:48px;" title="StoryBook"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="height:48px;" title="Azure"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" style="height:48px;" title="Jasmine"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" style="height:48px;" title="Webpack"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" style="height:48px;" title="AWS"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="height:48px;" title="Tailwind"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="height:48px;" title="Figma"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" style="height:48px;" title="Docker"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg" style="height:48px;" title="WebAssembly"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" style="height:48px;" title="Rust"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" style="height:48px;" title="GitLab"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" style="height:48px;" title="Socket.io"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="height:48px;" title="Jest"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" style="height:48px;" title="GraphQL"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.vectorlogo.zone/logos/sveltetechnology/images/fc06c9b6-d01c-4e1f-82be-557ad5f65d6e.svg" style="height:48px;" title="Svelte"/>
+  &nbsp;&nbsp;
+</div>
+  
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2>📊📊📊 My Github Stats:</h2>
