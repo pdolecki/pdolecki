@@ -3,15 +3,18 @@
     Hello World!
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
-<h2>🤝 Let's create something amazing together!</h3>
-<p> - 🔥 Highly motivated and dedicated with a passion for crafting exceptional user experiences.</p>
-<p> - 💻 I bring a unique blend of technical expertise and creative problem solving in every project.</p>
-<p> - 💡 From concept and design, to development and testing. I take pride in delivering top-notch results.</p>
-<p> - 👥 Excited to work with driven teams and contribute my skills to create meaningful digital experiences.</p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🧰 Languages and Tools:
+<h2>🚀🚀🚀 Let's create something amazing together!</h2>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;❍&nbsp;&nbsp;&nbsp;&nbsp;🔥 Highly motivated and dedicated with a passion for crafting exceptional user experiences.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;❍&nbsp;&nbsp;&nbsp;&nbsp;💻 I bring a unique blend of technical expertise and creative problem solving in every project.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;❍&nbsp;&nbsp;&nbsp;&nbsp;💡 From concept and design, to development and testing. I take pride in delivering top-notch results.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;❍&nbsp;&nbsp;&nbsp;&nbsp;👥 Excited to work with driven teams and contribute my skills to create meaningful digital experiences.</p>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h2>🛠️🛠️🛠️ Languages and Tools:</h2>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" style="height:48px;"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -46,10 +49,9 @@
   <a href="https://svelte.dev/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/sveltetechnology/images/fc06c9b6-d01c-4e1f-82be-557ad5f65d6e.html" style="height:48px;"/>
 </p>
 
-<br />
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📊 My Github Stats
-
+<h2>📊📊📊 My Github Stats:</h2>
 <p align="center">
 <a href="https://github.com/pdolecki/github-readme-streak-stats">
   <img title="Streak stats for profile" alt="Patrick's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pdolecki&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -62,10 +64,9 @@
 </p>
    <b>Note:</b><em> Most used languages is only a metric of the languages that my public code consists of and doesn't reflect experience or skill level.</em>
 
-<br />
-<br />
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+<h2>📫📫📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:</h2>
 
 - [<img align="left" alt="pdolecki | gmail" width="24px" src="https://img.icons8.com/color/48/000000/gmail.png" />][gmail] pdolecki.it@gmail.com
 
