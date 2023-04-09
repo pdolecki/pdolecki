@@ -67,10 +67,10 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2>📫📫📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:</h2>
+    
+- [<img align="left" width="24px" src="https://img.icons8.com/color/48/000000/gmail.png" />][gmail] pdolecki.it@gmail.com
 
-- [<img align="left" alt="pdolecki | gmail" width="24px" src="https://img.icons8.com/color/48/000000/gmail.png" />][gmail] pdolecki.it@gmail.com
-
-- [<img align="left" alt="pdolecki | LinkedIn" width="28px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin] [pdolecki][linkedin]
+- [<img align="left" width="28px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin] [pdolecki][linkedin]
 
 [linkedin]: https://linkedin.com/in/pdolecki
 [gmail]: mailto:pdolecki.it@gmail.com
