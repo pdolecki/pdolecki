@@ -80,14 +80,6 @@
   <img src="https://upload.vectorlogo.zone/logos/sveltetechnology/images/fc06c9b6-d01c-4e1f-82be-557ad5f65d6e.svg" style="height:48px;" title="Svelte"/>
   &nbsp;&nbsp;
 </div>
-  
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<h2>📊📊📊 My Github Stats:</h2>
-<div align="center"> 
-  <a href="https://github.com/pdolecki/github-readme-stats"><img alt="Patrick's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdolecki&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</div>
-<b>Note:</b><em> Most used languages is only a metric of the languages that my public code consists of and doesn't reflect experience or skill level.</em>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
