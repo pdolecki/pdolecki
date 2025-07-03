@@ -65,19 +65,11 @@
   &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" style="height:48px;" title="Docker"/>
   &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg" style="height:48px;" title="WebAssembly"/>
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" style="height:48px;" title="Rust"/>
-  &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" style="height:48px;" title="GitLab"/>
   &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" style="height:48px;" title="Socket.io"/>
   &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="height:48px;" title="Jest"/>
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" style="height:48px;" title="GraphQL"/>
-  &nbsp;&nbsp;
-  <img src="https://upload.vectorlogo.zone/logos/sveltetechnology/images/fc06c9b6-d01c-4e1f-82be-557ad5f65d6e.svg" style="height:48px;" title="Svelte"/>
   &nbsp;&nbsp;
 </div>
 
