@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
+
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/pdolecki/count.svg" alt="Visitor's Count" />
@@ -5,7 +9,9 @@
 
 <img src="banner.png" alt="Banner of a developer sitting in front of a desk">
 
-<h1 align="center" style="color: #FDBB8F">Hi there!👋</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=FDBB8F&duration=4000&lines=Hi+There!+👋;+I'm+Patryk+Dolecki!;" />
+</h1>
 
 ### I’m a frontend developer with a strong Angular focus and fullstack capabilities — dedicated to creating performant, scalable, and visually engaging web apps and more!
 
@@ -93,3 +99,7 @@
 </div>
 
 <hr>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
