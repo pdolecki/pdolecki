@@ -66,4 +66,4 @@
   <img src="icons/firebase.svg" style="height:48px;" title="Firebase"/>
 </p>
 
-</hr>
+<hr>
