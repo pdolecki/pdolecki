@@ -65,3 +65,5 @@
   <img src="icons/bitbucket.svg" style="height:48px;" title="Bitbucket"/>
   <img src="icons/firebase.svg" style="height:48px;" title="Firebase"/>
 </p>
+
+</hr>
